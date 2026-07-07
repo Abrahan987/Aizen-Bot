@@ -102,7 +102,7 @@ Bienvenido al dominio de *${botname2}*.
       }
 
       menu += `\n▐════════════════════▌
-✐ ${botname2} desarrollado por Diego
+✐ ${botname2} desarrollado por ABRAHAN-M
 ▐════════════════════▌
 "Todo ocurre según mi voluntad…"`
 
