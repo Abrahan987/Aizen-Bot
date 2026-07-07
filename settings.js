@@ -2,7 +2,7 @@ import fs from 'fs';
 import { watchFile, unwatchFile } from 'fs'
 import { fileURLToPath } from 'url'
 
-global.owner = ['573237649689']
+global.owner = ['573237649689','50247034289']
 
 global.api = {
   url: 'https://api.stellarwa.xyz',
